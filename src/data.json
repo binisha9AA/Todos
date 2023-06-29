@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 0.7020040953662534,
+      "task": "go to market",
+      "complete": false
+    },
+    {
+      "id": 0.024991191294488457,
+      "task": "clean the house",
+      "complete": false
+    },
+    {
+      "id": 0.7357120161175523,
+      "task": "bake cookies",
+      "complete": false
+    },
+    {
+      "id": 1,
+      "task": "delete file",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "do assignment",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "learn",
+      "complete": false
+    },
+    {
+      "id": 0.4059205424437542,
+      "task": "sfsf",
+      "complete": false
+    }
+  ]
+}
